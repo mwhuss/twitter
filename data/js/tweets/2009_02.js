@@ -8,50 +8,6 @@ Grailbird.data.tweets_2009_02 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "1263769795",
-  "text" : "Go green pig!",
-  "id" : 1263769795,
-  "created_at" : "2009-03-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1263995987",
-  "text" : "Rode my favorite carnaval ride, the gravitron!",
-  "id" : 1263995987,
-  "created_at" : "2009-03-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "1260533680",
   "text" : "Just found an aventinus glass!",
   "id" : 1260533680,
@@ -4256,6 +4212,99 @@ Grailbird.data.tweets_2009_02 =
   "created_at" : "2009-02-02 00:00:00 +0000",
   "in_reply_to_screen_name" : "brennandunn",
   "in_reply_to_user_id_str" : "14267396",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "keener2u",
+      "screen_name" : "keener2u",
+      "indices" : [ 0, 9 ],
+      "id_str" : "9969232",
+      "id" : 9969232
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1165741516",
+  "in_reply_to_user_id" : 9969232,
+  "text" : "@keener2u grabbed you a super bowl lanyard",
+  "id" : 1165741516,
+  "created_at" : "2009-02-01 00:00:00 +0000",
+  "in_reply_to_screen_name" : "keener2u",
+  "in_reply_to_user_id_str" : "9969232",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Michael Macasek",
+      "screen_name" : "macasek",
+      "indices" : [ 0, 8 ],
+      "id_str" : "12987412",
+      "id" : 12987412
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1165882463",
+  "in_reply_to_user_id" : 12987412,
+  "text" : "@macasek go for it, I'm doing both",
+  "id" : 1165882463,
+  "created_at" : "2009-02-01 00:00:00 +0000",
+  "in_reply_to_screen_name" : "macasek",
+  "in_reply_to_user_id_str" : "12987412",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jasen Jacobsen",
+      "screen_name" : "jasenj1",
+      "indices" : [ 0, 8 ],
+      "id_str" : "14165198",
+      "id" : 14165198
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1168115949",
+  "in_reply_to_user_id" : 14165198,
+  "text" : "@jasenj1 that video was wrong in many ways",
+  "id" : 1168115949,
+  "created_at" : "2009-02-01 00:00:00 +0000",
+  "in_reply_to_screen_name" : "jasenj1",
+  "in_reply_to_user_id_str" : "14165198",
   "user" : {
     "name" : "Marshall Huss",
     "screen_name" : "mwhuss",

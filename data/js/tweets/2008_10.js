@@ -1,104 +1,5 @@
 Grailbird.data.tweets_2008_10 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "984844916",
-  "text" : "Taking care of sick wife and handing out candy",
-  "id" : 984844916,
-  "created_at" : "2008-11-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "985263424",
-  "text" : "Just woke up, and apparently I have a quiz due in 40 min, the teacher has 27 page syllabus and all the dates on it are wrong",
-  "id" : 985263424,
-  "created_at" : "2008-11-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "LauraES",
-      "screen_name" : "LauraES",
-      "indices" : [ 0, 8 ],
-      "id_str" : "16425734",
-      "id" : 16425734
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "985353520",
-  "geo" : { },
-  "id_str" : "985354187",
-  "in_reply_to_user_id" : 16425734,
-  "text" : "@LauraES Been some good episodes",
-  "id" : 985354187,
-  "in_reply_to_status_id" : 985353520,
-  "created_at" : "2008-11-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "LauraES",
-  "in_reply_to_user_id_str" : "16425734",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "985513194",
-  "text" : "Xbox DVD drive is dead right before my surgery, anyone want to loan me there xbox?",
-  "id" : 985513194,
-  "created_at" : "2008-11-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -3209,6 +3110,105 @@ Grailbird.data.tweets_2008_10 =
   "text" : "Forget the vp debate, going to the Pitt, USF game as buccaneers stadium",
   "id" : 943976312,
   "created_at" : "2008-10-02 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "masokistique",
+      "screen_name" : "masokistique",
+      "indices" : [ 0, 13 ],
+      "id_str" : "150276727",
+      "id" : 150276727
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "941353243",
+  "geo" : { },
+  "id_str" : "941361399",
+  "in_reply_to_user_id" : 14078487,
+  "text" : "@Masokistique what you going to put in it?",
+  "id" : 941361399,
+  "in_reply_to_status_id" : 941353243,
+  "created_at" : "2008-10-01 00:00:00 +0000",
+  "in_reply_to_screen_name" : "polymorfik",
+  "in_reply_to_user_id_str" : "14078487",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "941362212",
+  "text" : "Brought a Rino GPS home from work to do some geocaching this weekend",
+  "id" : 941362212,
+  "created_at" : "2008-10-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "942058913",
+  "text" : "Happy New Fiscal Year!",
+  "id" : 942058913,
+  "created_at" : "2008-10-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "942244715",
+  "text" : "Slowly forcing git on my coworkers",
+  "id" : 942244715,
+  "created_at" : "2008-10-01 00:00:00 +0000",
   "user" : {
     "name" : "Marshall Huss",
     "screen_name" : "mwhuss",

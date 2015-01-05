@@ -1364,7 +1364,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "83493074",
       "id" : 83493074
     }, {
-      "name" : "Courtney Boyd Myers",
+      "name" : "\u25B3CBM\u25B3",
       "screen_name" : "CBM",
       "indices" : [ 136, 140 ],
       "id_str" : "17972431",
@@ -1398,7 +1398,7 @@ Grailbird.data.tweets_2011_07 =
         "id_str" : "83493074",
         "id" : 83493074
       }, {
-        "name" : "Courtney Boyd Myers",
+        "name" : "\u25B3CBM\u25B3",
         "screen_name" : "CBM",
         "indices" : [ 121, 125 ],
         "id_str" : "17972431",
@@ -3182,7 +3182,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jon 'Fall Guy' Yurek",
+      "name" : "Jon Yurek",
       "screen_name" : "jyurek",
       "indices" : [ 0, 7 ],
       "id_str" : "6505422",
@@ -3457,7 +3457,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WCSC Intrigue",
+      "name" : "BTC Intrigue",
       "screen_name" : "IntrigueLA",
       "indices" : [ 0, 11 ],
       "id_str" : "146809308",
@@ -6578,7 +6578,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "qrush",
       "protected" : false,
       "id_str" : "5743852",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/499204624859947010\/-gus50w2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539934850052943872\/wtt9RBjT_normal.jpeg",
       "id" : 5743852,
       "verified" : false
     }

@@ -816,7 +816,13 @@ Grailbird.data.tweets_2009_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "william fabella",
+      "screen_name" : "WFabella",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2958082555",
+      "id" : 2958082555
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

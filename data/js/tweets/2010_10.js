@@ -1006,10 +1006,7 @@ Grailbird.data.tweets_2010_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 38.9264192521, -77.2163380864 ]
-  },
+  "geo" : { },
   "id_str" : "28745706928",
   "text" : "Great dinner with @rmm5t, @coderifous, @djbrowning, and @reanbug",
   "id" : 28745706928,
@@ -1026,7 +1023,13 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "william fabella",
+      "screen_name" : "WFabella",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2958082555",
+      "id" : 2958082555
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3501,7 +3504,13 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "william fabella",
+      "screen_name" : "WFabella",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2958082555",
+      "id" : 2958082555
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

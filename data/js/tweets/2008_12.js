@@ -2,210 +2,6 @@ Grailbird.data.tweets_2008_12 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "keener2u",
-      "screen_name" : "keener2u",
-      "indices" : [ 11, 20 ],
-      "id_str" : "9969232",
-      "id" : 9969232
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1089130766",
-  "text" : "Heading to @keener2u's for new years",
-  "id" : 1089130766,
-  "created_at" : "2009-01-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1089453947",
-  "text" : "Happy new year!",
-  "id" : 1089453947,
-  "created_at" : "2009-01-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1090134231",
-  "text" : "Still trying to find Left 4 Dead - everyone is out of stock",
-  "id" : 1090134231,
-  "created_at" : "2009-01-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1090245675",
-  "text" : "off to find some lunch and do some grocery shopping",
-  "id" : 1090245675,
-  "created_at" : "2009-01-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mike Wasylik",
-      "screen_name" : "MikeWas",
-      "indices" : [ 0, 8 ],
-      "id_str" : "820594",
-      "id" : 820594
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "1090499719",
-  "geo" : { },
-  "id_str" : "1090507334",
-  "in_reply_to_user_id" : 820594,
-  "text" : "@MikeWas congrats on the new firm",
-  "id" : 1090507334,
-  "in_reply_to_status_id" : 1090499719,
-  "created_at" : "2009-01-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "MikeWas",
-  "in_reply_to_user_id_str" : "820594",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1090527878",
-  "text" : "Seems like everyone uses facebook so I've got everything piping into it now",
-  "id" : 1090527878,
-  "created_at" : "2009-01-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1090628476",
-  "text" : "Just got back from geocaching, found our first cache",
-  "id" : 1090628476,
-  "created_at" : "2009-01-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andrew Sabri",
-      "screen_name" : "plastk",
-      "indices" : [ 0, 7 ],
-      "id_str" : "15488534",
-      "id" : 15488534
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "1090675348",
-  "geo" : { },
-  "id_str" : "1090678253",
-  "in_reply_to_user_id" : 15488534,
-  "text" : "@plastk I recommend the cowboy ribeye",
-  "id" : 1090678253,
-  "in_reply_to_status_id" : 1090675348,
-  "created_at" : "2009-01-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "plastk",
-  "in_reply_to_user_id_str" : "15488534",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5515,6 +5311,387 @@ Grailbird.data.tweets_2008_12 =
   "text" : "Gordon biersch for happy hour",
   "id" : 1035046640,
   "created_at" : "2008-12-02 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1032979574",
+  "text" : "@skhisma you must be doing it wrong, it's not that hard",
+  "id" : 1032979574,
+  "created_at" : "2008-12-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "masokistique",
+      "screen_name" : "masokistique",
+      "indices" : [ 11, 24 ],
+      "id_str" : "150276727",
+      "id" : 150276727
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1033008965",
+  "text" : "Knocked on @masokistique's door but he's no where to be found",
+  "id" : 1033008965,
+  "created_at" : "2008-12-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Xenobula",
+      "screen_name" : "Xenobula",
+      "indices" : [ 0, 9 ],
+      "id_str" : "16116066",
+      "id" : 16116066
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1033072023",
+  "geo" : { },
+  "id_str" : "1033081497",
+  "in_reply_to_user_id" : 16116066,
+  "text" : "@xenobula yea, his hotel room is a few down from mine.",
+  "id" : 1033081497,
+  "in_reply_to_status_id" : 1033072023,
+  "created_at" : "2008-12-01 00:00:00 +0000",
+  "in_reply_to_screen_name" : "Xenobula",
+  "in_reply_to_user_id_str" : "16116066",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1033224630",
+  "text" : "Out to dinner with my parents for my birthday.",
+  "id" : 1033224630,
+  "created_at" : "2008-12-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1031446963",
+  "text" : "All packed for my trip to DC tomorrow",
+  "id" : 1031446963,
+  "created_at" : "2008-12-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1031614335",
+  "text" : "Checked in for my flight, and found out its at 7:20 not 7:40, great",
+  "id" : 1031614335,
+  "created_at" : "2008-12-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1031621580",
+  "text" : "What's on your Christmas list this year? http:\/\/www.wishlistr.com\/marshall",
+  "id" : 1031621580,
+  "created_at" : "2008-12-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1031659178",
+  "text" : "Finally figured out how to make Twitterific stop chirping all the time, mark all your tweets as read (Command+K)",
+  "id" : 1031659178,
+  "created_at" : "2008-12-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1031715382",
+  "text" : "@CNUFijiBluSi You're telling me, I've got a 7:20am flight",
+  "id" : 1031715382,
+  "created_at" : "2008-12-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1031771660",
+  "text" : "Registered for classes this spring, time for bed",
+  "id" : 1031771660,
+  "created_at" : "2008-12-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1032037610",
+  "text" : "On my way to the airport.",
+  "id" : 1032037610,
+  "created_at" : "2008-12-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1032119519",
+  "text" : "Passenger next to me has a parachute, not very assuring",
+  "id" : 1032119519,
+  "created_at" : "2008-12-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Browning",
+      "screen_name" : "djbrowning",
+      "indices" : [ 35, 46 ],
+      "id_str" : "791632",
+      "id" : 791632
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1032276020",
+  "text" : "Just landed at Dulles, dropping by @djbrowning's new place.",
+  "id" : 1032276020,
+  "created_at" : "2008-12-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1032309842",
+  "text" : "It's cold! We aren't in Florida anymore Toto.",
+  "id" : 1032309842,
+  "created_at" : "2008-12-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Browning",
+      "screen_name" : "djbrowning",
+      "indices" : [ 13, 24 ],
+      "id_str" : "791632",
+      "id" : 791632
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1032674483",
+  "text" : "Working with @djbrowning until I can check into my hotel room",
+  "id" : 1032674483,
+  "created_at" : "2008-12-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1032973698",
+  "text" : "Checked into my room, need more than 3 hrs sleep tonight",
+  "id" : 1032973698,
+  "created_at" : "2008-12-01 00:00:00 +0000",
   "user" : {
     "name" : "Marshall Huss",
     "screen_name" : "mwhuss",

@@ -743,7 +743,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "aitoville",
       "protected" : false,
       "id_str" : "38227644",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459071444278726656\/La0HAmmH_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538055379611959297\/3cmWgNT__normal.jpeg",
       "id" : 38227644,
       "verified" : false
     }
@@ -978,7 +978,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WCSC Intrigue",
+      "name" : "BTC Intrigue",
       "screen_name" : "IntrigueLA",
       "indices" : [ 0, 11 ],
       "id_str" : "146809308",
@@ -1526,7 +1526,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "Sheerman",
       "protected" : false,
       "id_str" : "19526805",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/488656139022655489\/TQl8YKgk_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/547753091915710466\/MuDp6Otc_normal.png",
       "id" : 19526805,
       "verified" : false
     }
@@ -5097,7 +5097,13 @@ Grailbird.data.tweets_2011_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Allen Cam",
+      "screen_name" : "AllenCam",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2955370587",
+      "id" : 2955370587
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {

@@ -1612,7 +1612,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "kevinweil",
       "protected" : false,
       "id_str" : "3452911",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/493623826429640704\/0Sdh4IWw_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/536369378632032256\/fleA5Ipm_normal.jpeg",
       "id" : 3452911,
       "verified" : false
     }

@@ -3,99 +3,6 @@ Grailbird.data.tweets_2009_01 =
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "keener2u",
-      "screen_name" : "keener2u",
-      "indices" : [ 0, 9 ],
-      "id_str" : "9969232",
-      "id" : 9969232
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1165741516",
-  "in_reply_to_user_id" : 9969232,
-  "text" : "@keener2u grabbed you a super bowl lanyard",
-  "id" : 1165741516,
-  "created_at" : "2009-02-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "keener2u",
-  "in_reply_to_user_id_str" : "9969232",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Michael Macasek",
-      "screen_name" : "macasek",
-      "indices" : [ 0, 8 ],
-      "id_str" : "12987412",
-      "id" : 12987412
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1165882463",
-  "in_reply_to_user_id" : 12987412,
-  "text" : "@macasek go for it, I'm doing both",
-  "id" : 1165882463,
-  "created_at" : "2009-02-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "macasek",
-  "in_reply_to_user_id_str" : "12987412",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jasen Jacobsen",
-      "screen_name" : "jasenj1",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14165198",
-      "id" : 14165198
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1168115949",
-  "in_reply_to_user_id" : 14165198,
-  "text" : "@jasenj1 that video was wrong in many ways",
-  "id" : 1168115949,
-  "created_at" : "2009-02-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "jasenj1",
-  "in_reply_to_user_id_str" : "14165198",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "jeniferhuss",
       "screen_name" : "jeniferhuss",
       "indices" : [ 23, 35 ],
@@ -5170,6 +5077,210 @@ Grailbird.data.tweets_2009_01 =
   "created_at" : "2009-01-02 00:00:00 +0000",
   "in_reply_to_screen_name" : "metaskills",
   "in_reply_to_user_id_str" : "9887102",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "keener2u",
+      "screen_name" : "keener2u",
+      "indices" : [ 11, 20 ],
+      "id_str" : "9969232",
+      "id" : 9969232
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1089130766",
+  "text" : "Heading to @keener2u's for new years",
+  "id" : 1089130766,
+  "created_at" : "2009-01-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1089453947",
+  "text" : "Happy new year!",
+  "id" : 1089453947,
+  "created_at" : "2009-01-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1090134231",
+  "text" : "Still trying to find Left 4 Dead - everyone is out of stock",
+  "id" : 1090134231,
+  "created_at" : "2009-01-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1090245675",
+  "text" : "off to find some lunch and do some grocery shopping",
+  "id" : 1090245675,
+  "created_at" : "2009-01-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Mike Wasylik",
+      "screen_name" : "MikeWas",
+      "indices" : [ 0, 8 ],
+      "id_str" : "820594",
+      "id" : 820594
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1090499719",
+  "geo" : { },
+  "id_str" : "1090507334",
+  "in_reply_to_user_id" : 820594,
+  "text" : "@MikeWas congrats on the new firm",
+  "id" : 1090507334,
+  "in_reply_to_status_id" : 1090499719,
+  "created_at" : "2009-01-01 00:00:00 +0000",
+  "in_reply_to_screen_name" : "MikeWas",
+  "in_reply_to_user_id_str" : "820594",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1090527878",
+  "text" : "Seems like everyone uses facebook so I've got everything piping into it now",
+  "id" : 1090527878,
+  "created_at" : "2009-01-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1090628476",
+  "text" : "Just got back from geocaching, found our first cache",
+  "id" : 1090628476,
+  "created_at" : "2009-01-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Andrew Sabri",
+      "screen_name" : "plastk",
+      "indices" : [ 0, 7 ],
+      "id_str" : "15488534",
+      "id" : 15488534
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1090675348",
+  "geo" : { },
+  "id_str" : "1090678253",
+  "in_reply_to_user_id" : 15488534,
+  "text" : "@plastk I recommend the cowboy ribeye",
+  "id" : 1090678253,
+  "in_reply_to_status_id" : 1090675348,
+  "created_at" : "2009-01-01 00:00:00 +0000",
+  "in_reply_to_screen_name" : "plastk",
+  "in_reply_to_user_id_str" : "15488534",
   "user" : {
     "name" : "Marshall Huss",
     "screen_name" : "mwhuss",

@@ -5120,7 +5120,7 @@ Grailbird.data.tweets_2012_04 =
       "id_str" : "13334762",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/426158315781881856\/sBsvBbjY_normal.png",
       "id" : 13334762,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 189737244070920193,
@@ -6962,7 +6962,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ashish Dixit",
+      "name" : "bookshish",
       "screen_name" : "tundal45",
       "indices" : [ 0, 9 ],
       "id_str" : "5573992",
@@ -7113,7 +7113,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jeremy weiskotten",
+      "name" : "Jeremy Weiskotten",
       "screen_name" : "doctorzaius",
       "indices" : [ 3, 15 ],
       "id_str" : "15294983",
@@ -7140,7 +7140,7 @@ Grailbird.data.tweets_2012_04 =
     "id" : 186454259997487104,
     "created_at" : "2012-04-01 14:05:34 +0000",
     "user" : {
-      "name" : "jeremy weiskotten",
+      "name" : "Jeremy Weiskotten",
       "screen_name" : "doctorzaius",
       "protected" : false,
       "id_str" : "15294983",

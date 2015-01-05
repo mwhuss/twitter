@@ -4161,7 +4161,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "pengwynn",
       "protected" : false,
       "id_str" : "14100886",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/507639878322892801\/XAo08MPV_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549647026447585280\/cSdpr89u_normal.png",
       "id" : 14100886,
       "verified" : false
     }

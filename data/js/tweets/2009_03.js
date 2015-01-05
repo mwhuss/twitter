@@ -8,170 +8,6 @@ Grailbird.data.tweets_2009_03 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "1431519123",
-  "text" : "ah, April fools day makes me love the internet even more",
-  "id" : 1431519123,
-  "created_at" : "2009-04-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1431792845",
-  "text" : "everyone seems to be talking about this conflicker virus today, I don't know, I have a mac",
-  "id" : 1431792845,
-  "created_at" : "2009-04-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1432213245",
-  "text" : "I just turned on my car and somehow a cd with surf and bird got into my cd player!",
-  "id" : 1432213245,
-  "created_at" : "2009-04-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Bunny",
-      "screen_name" : "SessoBunny",
-      "indices" : [ 0, 11 ],
-      "id_str" : "10381702",
-      "id" : 10381702
-    }, {
-      "name" : "keener2u",
-      "screen_name" : "keener2u",
-      "indices" : [ 20, 29 ],
-      "id_str" : "9969232",
-      "id" : 9969232
-    }, {
-      "name" : "jeniferhuss",
-      "screen_name" : "jeniferhuss",
-      "indices" : [ 34, 46 ],
-      "id_str" : "14594598",
-      "id" : 14594598
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "1432231362",
-  "geo" : { },
-  "id_str" : "1432386220",
-  "in_reply_to_user_id" : 10381702,
-  "text" : "@SessoBunny I smell @keener2u and @jeniferhuss",
-  "id" : 1432386220,
-  "in_reply_to_status_id" : 1432231362,
-  "created_at" : "2009-04-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "SessoBunny",
-  "in_reply_to_user_id_str" : "10381702",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "keener2u",
-      "screen_name" : "keener2u",
-      "indices" : [ 0, 9 ],
-      "id_str" : "9969232",
-      "id" : 9969232
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1432571092",
-  "in_reply_to_user_id" : 9969232,
-  "text" : "@keener2u I know it was you...but how?",
-  "id" : 1432571092,
-  "created_at" : "2009-04-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "keener2u",
-  "in_reply_to_user_id_str" : "9969232",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1434619027",
-  "text" : "Baseball game",
-  "id" : 1434619027,
-  "created_at" : "2009-04-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "1421941357",
   "text" : "heading to bed early tonight, long day tomorrow",
   "id" : 1421941357,
@@ -3630,6 +3466,50 @@ Grailbird.data.tweets_2009_03 =
   "text" : "trying to finish this midterm and project since it's going to be a busy work week",
   "id" : 1270258548,
   "created_at" : "2009-03-02 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1263769795",
+  "text" : "Go green pig!",
+  "id" : 1263769795,
+  "created_at" : "2009-03-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1263995987",
+  "text" : "Rode my favorite carnaval ride, the gravitron!",
+  "id" : 1263995987,
+  "created_at" : "2009-03-01 00:00:00 +0000",
   "user" : {
     "name" : "Marshall Huss",
     "screen_name" : "mwhuss",

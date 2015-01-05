@@ -64,7 +64,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ashish Dixit",
+      "name" : "bookshish",
       "screen_name" : "tundal45",
       "indices" : [ 0, 9 ],
       "id_str" : "5573992",
@@ -207,7 +207,7 @@ Grailbird.data.tweets_2011_10 =
       "id_str" : "5743852",
       "id" : 5743852
     }, {
-      "name" : "Jon 'Fall Guy' Yurek",
+      "name" : "Jon Yurek",
       "screen_name" : "jyurek",
       "indices" : [ 120, 127 ],
       "id_str" : "6505422",
@@ -1880,7 +1880,7 @@ Grailbird.data.tweets_2011_10 =
       "id_str" : "3948061",
       "id" : 3948061
     }, {
-      "name" : "Ashish Dixit",
+      "name" : "bookshish",
       "screen_name" : "tundal45",
       "indices" : [ 8, 17 ],
       "id_str" : "5573992",
@@ -1918,7 +1918,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ashish Dixit",
+      "name" : "bookshish",
       "screen_name" : "tundal45",
       "indices" : [ 0, 9 ],
       "id_str" : "5573992",
@@ -2543,7 +2543,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "RichyRich",
       "protected" : false,
       "id_str" : "17740706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520411778941853697\/tRI4LUlO_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538060371240579072\/a3jNDDLn_normal.jpeg",
       "id" : 17740706,
       "verified" : false
     }
@@ -4742,7 +4742,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jon 'Fall Guy' Yurek",
+      "name" : "Jon Yurek",
       "screen_name" : "jyurek",
       "indices" : [ 0, 7 ],
       "id_str" : "6505422",
@@ -5271,7 +5271,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "GuyKawasaki",
       "protected" : false,
       "id_str" : "8453452",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3281264080\/3969c1c6d76b0894c7db853f5ca944a2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/532396480242266113\/W_YUvkCK_normal.jpeg",
       "id" : 8453452,
       "verified" : true
     }
@@ -6007,7 +6007,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jon 'Fall Guy' Yurek",
+      "name" : "Jon Yurek",
       "screen_name" : "jyurek",
       "indices" : [ 0, 7 ],
       "id_str" : "6505422",

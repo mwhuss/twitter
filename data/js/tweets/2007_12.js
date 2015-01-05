@@ -8,116 +8,6 @@ Grailbird.data.tweets_2007_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "551127942",
-  "text" : "On my way to a peurtirican new years party",
-  "id" : 551127942,
-  "created_at" : "2008-01-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "551409522",
-  "text" : "The dice roll, its the only move I've got",
-  "id" : 551409522,
-  "created_at" : "2008-01-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "bdoyle807",
-      "screen_name" : "bdoyle807",
-      "indices" : [ 0, 10 ],
-      "id_str" : "10948152",
-      "id" : 10948152
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "551160672",
-  "geo" : { },
-  "id_str" : "551621012",
-  "in_reply_to_user_id" : 10948152,
-  "text" : "@bdoyle807 welcome to the club, what you smoking?",
-  "id" : 551621012,
-  "in_reply_to_status_id" : 551160672,
-  "created_at" : "2008-01-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "bdoyle807",
-  "in_reply_to_user_id_str" : "10948152",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "keener2u",
-      "screen_name" : "keener2u",
-      "indices" : [ 0, 9 ],
-      "id_str" : "9969232",
-      "id" : 9969232
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "551631542",
-  "geo" : { },
-  "id_str" : "551690582",
-  "in_reply_to_user_id" : 9969232,
-  "text" : "@keener2u oooot",
-  "id" : 551690582,
-  "in_reply_to_status_id" : 551631542,
-  "created_at" : "2008-01-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "keener2u",
-  "in_reply_to_user_id_str" : "9969232",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "550269662",
   "text" : "The office is dead empty...weird",
   "id" : 550269662,
@@ -892,6 +782,28 @@ Grailbird.data.tweets_2007_12 =
   "text" : "We're moving to Tampa!",
   "id" : 461836632,
   "created_at" : "2007-12-02 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "459749282",
+  "text" : "At a bar after 1am, haven't done that in awhile",
+  "id" : 459749282,
+  "created_at" : "2007-12-01 00:00:00 +0000",
   "user" : {
     "name" : "Marshall Huss",
     "screen_name" : "mwhuss",

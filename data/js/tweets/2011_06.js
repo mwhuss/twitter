@@ -3802,7 +3802,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "jsnell",
       "protected" : false,
       "id_str" : "784912",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489563542136180738\/fdgx0t03_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539992431496667136\/qblx7qeY_normal.png",
       "id" : 784912,
       "verified" : true
     }
@@ -6287,7 +6287,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "coreyhaines",
+      "name" : "2015 CATS",
       "screen_name" : "coreyhaines",
       "indices" : [ 0, 12 ],
       "id_str" : "11458102",

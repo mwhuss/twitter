@@ -3923,7 +3923,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "asmallteapot",
       "protected" : false,
       "id_str" : "14202167",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/500511713343442946\/-eAyJelJ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538945862798290945\/pk_u-5yR_normal.jpeg",
       "id" : 14202167,
       "verified" : false
     }

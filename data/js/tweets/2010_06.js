@@ -2997,6 +2997,12 @@ Grailbird.data.tweets_2010_06 =
       "indices" : [ 27, 38 ],
       "id_str" : "35300419",
       "id" : 35300419
+    }, {
+      "name" : "\uFC5E\uFC5E\uFC5E\uFC5E\uFC5E\uFC5E\uFC5E\uFC5E\uFC5E\uFC5E\uFC5E\uFC5E\uFC5E\uFC5E\uFC5E\uFC5E\uFC5E\uFC5E\uFC5E\uFC5E",
+      "screen_name" : "rmmt6",
+      "indices" : [ 40, 46 ],
+      "id_str" : "2908210846",
+      "id" : 2908210846
     } ],
     "media" : [ ],
     "hashtags" : [ ],
