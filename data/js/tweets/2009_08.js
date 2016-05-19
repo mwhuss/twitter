@@ -256,7 +256,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 0, 11 ],
       "id_str" : "791632",
@@ -1844,7 +1844,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 12, 23 ],
       "id_str" : "791632",
@@ -2649,7 +2649,7 @@ Grailbird.data.tweets_2009_08 =
       "id_str" : "160923326",
       "id" : 160923326
     }, {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 37, 48 ],
       "id_str" : "791632",
@@ -3236,7 +3236,7 @@ Grailbird.data.tweets_2009_08 =
       "id_str" : "37201113",
       "id" : 37201113
     }, {
-      "name" : "Jeremy Kemper",
+      "name" : "Jeremy Daer",
       "screen_name" : "bitsweat",
       "indices" : [ 116, 125 ],
       "id_str" : "9462972",
@@ -3580,7 +3580,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 0, 11 ],
       "id_str" : "791632",

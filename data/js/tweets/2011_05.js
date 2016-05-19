@@ -1,5 +1,38 @@
 Grailbird.data.tweets_2011_05 = 
  [ {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u00AF\\_(\u30C4)_\/\u00AF MOON",
+      "screen_name" : "coreyhaines",
+      "indices" : [ 0, 12 ],
+      "id_str" : "11458102",
+      "id" : 11458102
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "75778455928709121",
+  "geo" : { },
+  "id_str" : "75789429217832961",
+  "in_reply_to_user_id" : 11458102,
+  "text" : "@coreyhaines I've been using esign.adobe.com and it's been working well",
+  "id" : 75789429217832961,
+  "in_reply_to_status_id" : 75778455928709121,
+  "created_at" : "2011-06-01 05:03:02 +0000",
+  "in_reply_to_screen_name" : "coreyhaines",
+  "in_reply_to_user_id_str" : "11458102",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -1477,7 +1510,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryce Kerley",
+      "name" : "bryce irl",
       "screen_name" : "BonzoESC",
       "indices" : [ 0, 9 ],
       "id_str" : "7865582",
@@ -2099,57 +2132,6 @@ Grailbird.data.tweets_2011_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Brian Burridge",
-      "screen_name" : "brianburridge",
-      "indices" : [ 3, 17 ],
-      "id_str" : "14403474",
-      "id" : 14403474
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "71630248239837185",
-  "text" : "RT @brianburridge: Wow. Macho Man Randy Savage died in a car accident here in Tampa this morning: http:\/\/ow.ly\/4ZmSp",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "71626354638065664",
-    "text" : "Wow. Macho Man Randy Savage died in a car accident here in Tampa this morning: http:\/\/ow.ly\/4ZmSp",
-    "id" : 71626354638065664,
-    "created_at" : "2011-05-20 17:20:28 +0000",
-    "user" : {
-      "name" : "Brian Burridge",
-      "screen_name" : "brianburridge",
-      "protected" : false,
-      "id_str" : "14403474",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/444485681520197632\/o6Ae3lIZ_normal.jpeg",
-      "id" : 14403474,
-      "verified" : false
-    }
-  },
-  "id" : 71630248239837185,
-  "created_at" : "2011-05-20 17:35:56 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -2294,7 +2276,7 @@ Grailbird.data.tweets_2011_05 =
       "id_str" : "6110222",
       "id" : 6110222
     }, {
-      "name" : "Bryce Kerley",
+      "name" : "bryce irl",
       "screen_name" : "BonzoESC",
       "indices" : [ 12, 21 ],
       "id_str" : "7865582",
@@ -2327,7 +2309,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryce Kerley",
+      "name" : "bryce irl",
       "screen_name" : "BonzoESC",
       "indices" : [ 0, 9 ],
       "id_str" : "7865582",
@@ -2391,7 +2373,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryce Kerley",
+      "name" : "bryce irl",
       "screen_name" : "BonzoESC",
       "indices" : [ 0, 9 ],
       "id_str" : "7865582",
@@ -2586,7 +2568,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "RailsConf 2015",
+      "name" : "RailsConf 2016",
       "screen_name" : "railsconf",
       "indices" : [ 3, 13 ],
       "id_str" : "5493662",
@@ -2619,11 +2601,11 @@ Grailbird.data.tweets_2011_05 =
     "id" : 70934570962395139,
     "created_at" : "2011-05-18 19:31:34 +0000",
     "user" : {
-      "name" : "RailsConf 2015",
+      "name" : "RailsConf 2016",
       "screen_name" : "railsconf",
       "protected" : false,
       "id_str" : "5493662",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418089877951881217\/hLjqIGXx_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666644293453393920\/2S10JPl9_normal.jpg",
       "id" : 5493662,
       "verified" : false
     }
@@ -3063,7 +3045,7 @@ Grailbird.data.tweets_2011_05 =
       "id_str" : "171951853",
       "id" : 171951853
     }, {
-      "name" : "RailsConf 2015",
+      "name" : "RailsConf 2016",
       "screen_name" : "railsconf",
       "indices" : [ 39, 49 ],
       "id_str" : "5493662",
@@ -3080,7 +3062,7 @@ Grailbird.data.tweets_2011_05 =
     "source" : "\u003Ca href=\"http:\/\/smallact.com\/\" rel=\"nofollow\"\u003ESMX:Thrive\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "RailsConf 2015",
+        "name" : "RailsConf 2016",
         "screen_name" : "railsconf",
         "indices" : [ 25, 35 ],
         "id_str" : "5493662",
@@ -4623,7 +4605,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 9, 20 ],
       "id_str" : "791632",
@@ -6722,7 +6704,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Max Schoening",
+      "name" : "Max Schoening \u270D",
       "screen_name" : "mschoening",
       "indices" : [ 0, 11 ],
       "id_str" : "14239565",
@@ -7139,7 +7121,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryce Kerley",
+      "name" : "bryce irl",
       "screen_name" : "BonzoESC",
       "indices" : [ 0, 9 ],
       "id_str" : "7865582",
@@ -7298,7 +7280,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 0, 11 ],
       "id_str" : "791632",
@@ -7406,7 +7388,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryce Kerley",
+      "name" : "bryce irl",
       "screen_name" : "BonzoESC",
       "indices" : [ 0, 9 ],
       "id_str" : "7865582",
@@ -7426,28 +7408,6 @@ Grailbird.data.tweets_2011_05 =
   "created_at" : "2011-05-01 12:40:28 +0000",
   "in_reply_to_screen_name" : "BonzoESC",
   "in_reply_to_user_id_str" : "7865582",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "64558209708466176",
-  "text" : "Just finished black ops, weak, when's CoD 3 come out?",
-  "id" : 64558209708466176,
-  "created_at" : "2011-05-01 05:14:11 +0000",
   "user" : {
     "name" : "Marshall Huss",
     "screen_name" : "mwhuss",

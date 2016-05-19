@@ -327,7 +327,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 3, 14 ],
       "id_str" : "791632",
@@ -731,7 +731,7 @@ Grailbird.data.tweets_2010_08 =
       "id_str" : "42909832",
       "id" : 42909832
     }, {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 31, 42 ],
       "id_str" : "791632",
@@ -1050,7 +1050,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 21710909095,
   "in_reply_to_status_id" : 21710339248,
   "created_at" : "2010-08-21 00:00:00 +0000",
-  "in_reply_to_screen_name" : "dr3adp1rat3",
+  "in_reply_to_screen_name" : "elvientowjf",
   "in_reply_to_user_id_str" : "21726648",
   "user" : {
     "name" : "Marshall Huss",
@@ -1408,7 +1408,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 31, 42 ],
       "id_str" : "791632",
@@ -2842,7 +2842,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 20259707793,
   "in_reply_to_status_id" : 20256116823,
   "created_at" : "2010-08-03 00:00:00 +0000",
-  "in_reply_to_screen_name" : "dr3adp1rat3",
+  "in_reply_to_screen_name" : "elvientowjf",
   "in_reply_to_user_id_str" : "21726648",
   "user" : {
     "name" : "Marshall Huss",

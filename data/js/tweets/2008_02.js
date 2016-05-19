@@ -2,6 +2,28 @@ Grailbird.data.tweets_2008_02 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "765471774",
+  "text" : "Took my parents to the Williamsburg winery for a tour and tasting",
+  "id" : 765471774,
+  "created_at" : "2008-03-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Marshall Huss",
+    "screen_name" : "mwhuss",
+    "protected" : false,
+    "id_str" : "4235881",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
+    "id" : 4235881,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "keener2u",
       "screen_name" : "keener2u",
@@ -993,7 +1015,7 @@ Grailbird.data.tweets_2008_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KEEN ",
+      "name" : "KEEN",
       "screen_name" : "KEEN",
       "indices" : [ 103, 108 ],
       "id_str" : "16933064",
@@ -1206,105 +1228,6 @@ Grailbird.data.tweets_2008_02 =
   "text" : "Got home the trip, ate some meat from the fridge, definitely  2 weeks expired.",
   "id" : 671828062,
   "created_at" : "2008-02-03 00:00:00 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "664344222",
-  "text" : "\"I'm finding sticky notes everywhere\" ~ dbrowning",
-  "id" : 664344222,
-  "created_at" : "2008-02-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "664449412",
-  "text" : "Not ready to sit in my hotel room, catching a movie at tysons",
-  "id" : 664449412,
-  "created_at" : "2008-02-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "666594892",
-  "text" : "I found a bandaid in my wallet and took it out because I was never going to use it. Definitely cut my finger pretty bad this morning.",
-  "id" : 666594892,
-  "created_at" : "2008-02-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jay Crossler",
-      "screen_name" : "jaycrossler",
-      "indices" : [ 0, 12 ],
-      "id_str" : "775679",
-      "id" : 775679
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "663906842",
-  "geo" : { },
-  "id_str" : "668152492",
-  "in_reply_to_user_id" : 775679,
-  "text" : "@jaycrossler didnt you find a queueing library for ruby?",
-  "id" : 668152492,
-  "in_reply_to_status_id" : 663906842,
-  "created_at" : "2008-02-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "jaycrossler",
-  "in_reply_to_user_id_str" : "775679",
   "user" : {
     "name" : "Marshall Huss",
     "screen_name" : "mwhuss",

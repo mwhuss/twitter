@@ -2176,7 +2176,7 @@ Grailbird.data.tweets_2009_06 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Squarespace",
-      "screen_name" : "Squarespace",
+      "screen_name" : "squarespace",
       "indices" : [ 3, 15 ],
       "id_str" : "14319981",
       "id" : 14319981
@@ -2410,7 +2410,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lee",
+      "name" : "M",
       "screen_name" : "seachelles",
       "indices" : [ 0, 11 ],
       "id_str" : "1545486602",
@@ -2714,7 +2714,7 @@ Grailbird.data.tweets_2009_06 =
       "id_str" : "12987412",
       "id" : 12987412
     }, {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 21, 32 ],
       "id_str" : "791632",
@@ -3023,7 +3023,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LauraES",
+      "name" : "HeyLauraQQ",
       "screen_name" : "LauraES",
       "indices" : [ 0, 8 ],
       "id_str" : "16425734",
@@ -4197,7 +4197,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 0, 11 ],
       "id_str" : "791632",
@@ -4889,7 +4889,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 0, 11 ],
       "id_str" : "791632",
@@ -6271,7 +6271,7 @@ Grailbird.data.tweets_2009_06 =
   "id" : 2079314900,
   "in_reply_to_status_id" : 2079196440,
   "created_at" : "2009-06-08 00:00:00 +0000",
-  "in_reply_to_screen_name" : "dr3adp1rat3",
+  "in_reply_to_screen_name" : "elvientowjf",
   "in_reply_to_user_id_str" : "21726648",
   "user" : {
     "name" : "Marshall Huss",
@@ -7325,7 +7325,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 0, 11 ],
       "id_str" : "791632",

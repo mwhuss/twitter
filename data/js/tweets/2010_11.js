@@ -474,7 +474,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "1020515750",
       "id" : 1020515750
     }, {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 15, 26 ],
       "id_str" : "791632",
@@ -1379,8 +1379,8 @@ Grailbird.data.tweets_2010_11 =
       "name" : "Dean Travers",
       "screen_name" : "Ignite",
       "indices" : [ 22, 29 ],
-      "id_str" : "1493918006",
-      "id" : 1493918006
+      "id_str" : "717487891987890178",
+      "id" : 717487891987890178
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1873,7 +1873,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "3948061",
       "id" : 3948061
     }, {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 46, 57 ],
       "id_str" : "791632",

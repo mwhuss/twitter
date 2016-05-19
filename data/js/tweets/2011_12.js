@@ -55,7 +55,13 @@ Grailbird.data.tweets_2011_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Shaw Mohammad",
+      "screen_name" : "ShawSays",
+      "indices" : [ 0, 9 ],
+      "id_str" : "4642451292",
+      "id" : 4642451292
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -83,7 +89,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Key \u30C4",
+      "name" : "Mike Key",
       "screen_name" : "mike_key",
       "indices" : [ 0, 9 ],
       "id_str" : "242170995",
@@ -116,7 +122,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Key \u30C4",
+      "name" : "Mike Key",
       "screen_name" : "mike_key",
       "indices" : [ 0, 9 ],
       "id_str" : "242170995",
@@ -848,7 +854,13 @@ Grailbird.data.tweets_2011_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Shaw Mohammad",
+      "screen_name" : "ShawSays",
+      "indices" : [ 0, 9 ],
+      "id_str" : "4642451292",
+      "id" : 4642451292
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1238,7 +1250,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe DeSetto\u2122",
+      "name" : "Joe DeSetto",
       "screen_name" : "desetto",
       "indices" : [ 0, 8 ],
       "id_str" : "15366855",
@@ -1336,6 +1348,12 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 0, 14 ],
       "id_str" : "1020515750",
       "id" : 1020515750
+    }, {
+      "name" : "Shaw Mohammad",
+      "screen_name" : "ShawSays",
+      "indices" : [ 15, 24 ],
+      "id_str" : "4642451292",
+      "id" : 4642451292
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1595,7 +1613,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "j3",
       "protected" : false,
       "id_str" : "1133971",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000543599975\/c63a58ff323b22a9e9ad52ffbbfb7f0a_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/667052575775043584\/GAMQ5_2P_normal.jpg",
       "id" : 1133971,
       "verified" : false
     }
@@ -1945,67 +1963,6 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brian Burridge",
-      "screen_name" : "brianburridge",
-      "indices" : [ 3, 17 ],
-      "id_str" : "14403474",
-      "id" : 14403474
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 81, 101 ],
-      "url" : "http:\/\/t.co\/IsdCSFpI",
-      "expanded_url" : "http:\/\/j.mp\/vcairW",
-      "display_url" : "j.mp\/vcairW"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "148810686556946432",
-  "text" : "RT @brianburridge: iOS apps bring in 300% more revenue than Android counterparts http:\/\/t.co\/IsdCSFpI",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 62, 82 ],
-        "url" : "http:\/\/t.co\/IsdCSFpI",
-        "expanded_url" : "http:\/\/j.mp\/vcairW",
-        "display_url" : "j.mp\/vcairW"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "148810608563863552",
-    "text" : "iOS apps bring in 300% more revenue than Android counterparts http:\/\/t.co\/IsdCSFpI",
-    "id" : 148810608563863552,
-    "created_at" : "2011-12-19 17:03:08 +0000",
-    "user" : {
-      "name" : "Brian Burridge",
-      "screen_name" : "brianburridge",
-      "protected" : false,
-      "id_str" : "14403474",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/444485681520197632\/o6Ae3lIZ_normal.jpeg",
-      "id" : 14403474,
-      "verified" : false
-    }
-  },
-  "id" : 148810686556946432,
-  "created_at" : "2011-12-19 17:03:27 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Jason L Perry",
       "screen_name" : "ambethia",
       "indices" : [ 0, 9 ],
@@ -2319,7 +2276,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bookshish",
+      "name" : "modalshish",
       "screen_name" : "tundal45",
       "indices" : [ 0, 9 ],
       "id_str" : "5573992",
@@ -2352,7 +2309,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bookshish",
+      "name" : "modalshish",
       "screen_name" : "tundal45",
       "indices" : [ 0, 9 ],
       "id_str" : "5573992",
@@ -2655,7 +2612,7 @@ Grailbird.data.tweets_2011_12 =
       "id_str" : "8115462",
       "id" : 8115462
     }, {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 11, 22 ],
       "id_str" : "791632",
@@ -2946,7 +2903,13 @@ Grailbird.data.tweets_2011_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Caleb Davenport",
+      "screen_name" : "iMacthere4iAm",
+      "indices" : [ 3, 17 ],
+      "id_str" : "1020515750",
+      "id" : 1020515750
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -2982,7 +2945,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "calebd",
       "protected" : false,
       "id_str" : "17641648",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/502006691693473792\/v2JMRQqg_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/652926303142719488\/HB9-TwC1_normal.jpg",
       "id" : 17641648,
       "verified" : false
     }
@@ -3145,7 +3108,7 @@ Grailbird.data.tweets_2011_12 =
   "id" : 147145612448641024,
   "in_reply_to_status_id" : 147141084206731264,
   "created_at" : "2011-12-15 02:47:02 +0000",
-  "in_reply_to_screen_name" : "cyberjonah",
+  "in_reply_to_screen_name" : "rogouehobo",
   "in_reply_to_user_id_str" : "102764216",
   "user" : {
     "name" : "Marshall Huss",
@@ -3223,7 +3186,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "lsinger",
       "protected" : false,
       "id_str" : "1320161",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/468165567493734400\/kQ4M3Rfi_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/620652046019100674\/lh6B-bLH_normal.jpg",
       "id" : 1320161,
       "verified" : false
     }
@@ -3304,7 +3267,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Key \u30C4",
+      "name" : "Mike Key",
       "screen_name" : "mike_key",
       "indices" : [ 0, 9 ],
       "id_str" : "242170995",
@@ -3504,7 +3467,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 0, 11 ],
       "id_str" : "791632",
@@ -4254,7 +4217,13 @@ Grailbird.data.tweets_2011_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Caleb Davenport",
+      "screen_name" : "iMacthere4iAm",
+      "indices" : [ 3, 17 ],
+      "id_str" : "1020515750",
+      "id" : 1020515750
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -4290,7 +4259,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "calebd",
       "protected" : false,
       "id_str" : "17641648",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/502006691693473792\/v2JMRQqg_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/652926303142719488\/HB9-TwC1_normal.jpg",
       "id" : 17641648,
       "verified" : false
     }
@@ -4354,7 +4323,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Key \u30C4",
+      "name" : "Mike Key",
       "screen_name" : "mike_key",
       "indices" : [ 0, 9 ],
       "id_str" : "242170995",
@@ -4453,7 +4422,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Key \u30C4",
+      "name" : "Mike Key",
       "screen_name" : "mike_key",
       "indices" : [ 0, 9 ],
       "id_str" : "242170995",
@@ -4946,6 +4915,12 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Mark Quezada",
+      "screen_name" : "mirthlab",
+      "indices" : [ 3, 12 ],
+      "id_str" : "17832275",
+      "id" : 17832275
+    }, {
       "name" : "FastCustomer",
       "screen_name" : "fastcustomer",
       "indices" : [ 21, 34 ],
@@ -6058,7 +6033,7 @@ Grailbird.data.tweets_2011_12 =
   "id" : 143547296234213377,
   "in_reply_to_status_id" : 143547006588162048,
   "created_at" : "2011-12-05 04:28:37 +0000",
-  "in_reply_to_screen_name" : "cyberjonah",
+  "in_reply_to_screen_name" : "rogouehobo",
   "in_reply_to_user_id_str" : "102764216",
   "user" : {
     "name" : "Marshall Huss",
@@ -6842,7 +6817,13 @@ Grailbird.data.tweets_2011_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Shaw Mohammad",
+      "screen_name" : "ShawSays",
+      "indices" : [ 0, 9 ],
+      "id_str" : "4642451292",
+      "id" : 4642451292
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -7470,7 +7451,7 @@ Grailbird.data.tweets_2011_12 =
   "id" : 142352324386504705,
   "in_reply_to_status_id" : 142352286331576320,
   "created_at" : "2011-12-01 21:20:13 +0000",
-  "in_reply_to_screen_name" : "cyberjonah",
+  "in_reply_to_screen_name" : "rogouehobo",
   "in_reply_to_user_id_str" : "102764216",
   "user" : {
     "name" : "Marshall Huss",
@@ -7505,67 +7486,6 @@ Grailbird.data.tweets_2011_12 =
   "created_at" : "2011-12-01 20:48:07 +0000",
   "in_reply_to_screen_name" : "edavis10",
   "in_reply_to_user_id_str" : "9695352",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Brian Burridge",
-      "screen_name" : "brianburridge",
-      "indices" : [ 3, 17 ],
-      "id_str" : "14403474",
-      "id" : 14403474
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 62, 82 ],
-      "url" : "http:\/\/t.co\/bcOvsaL6",
-      "expanded_url" : "http:\/\/j.mp\/stj85q",
-      "display_url" : "j.mp\/stj85q"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "142316581349896192",
-  "text" : "RT @brianburridge: Zero Footprint: A Fancy Vertical Chess Set http:\/\/t.co\/bcOvsaL6 *love this",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 43, 63 ],
-        "url" : "http:\/\/t.co\/bcOvsaL6",
-        "expanded_url" : "http:\/\/j.mp\/stj85q",
-        "display_url" : "j.mp\/stj85q"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "142316305427607552",
-    "text" : "Zero Footprint: A Fancy Vertical Chess Set http:\/\/t.co\/bcOvsaL6 *love this",
-    "id" : 142316305427607552,
-    "created_at" : "2011-12-01 18:57:05 +0000",
-    "user" : {
-      "name" : "Brian Burridge",
-      "screen_name" : "brianburridge",
-      "protected" : false,
-      "id_str" : "14403474",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/444485681520197632\/o6Ae3lIZ_normal.jpeg",
-      "id" : 14403474,
-      "verified" : false
-    }
-  },
-  "id" : 142316581349896192,
-  "created_at" : "2011-12-01 18:58:11 +0000",
   "user" : {
     "name" : "Marshall Huss",
     "screen_name" : "mwhuss",

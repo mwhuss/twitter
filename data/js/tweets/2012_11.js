@@ -139,7 +139,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "teapot.",
+      "name" : "ellen teapot",
       "screen_name" : "asmallteapot",
       "indices" : [ 0, 13 ],
       "id_str" : "14202167",
@@ -419,7 +419,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "11467732",
       "id" : 11467732
     }, {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 14, 25 ],
       "id_str" : "791632",
@@ -534,17 +534,17 @@ Grailbird.data.tweets_2012_11 =
         "resize" : "fit",
         "w" : 340
       }, {
-        "h" : 768,
+        "h" : 450,
         "resize" : "fit",
-        "w" : 1024
+        "w" : 600
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 450,
+        "h" : 768,
         "resize" : "fit",
-        "w" : 600
+        "w" : 1024
       }, {
         "h" : 852,
         "resize" : "fit",
@@ -649,6 +649,12 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "\u0417\u0443\u0435\u0432 \u042E\u0440\u0438\u0439",
+      "screen_name" : "bendog24",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2416072248",
+      "id" : 2416072248
+    }, {
       "name" : "Andrew Chalkley",
       "screen_name" : "chalkers",
       "indices" : [ 10, 19 ],
@@ -682,6 +688,12 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "\u0417\u0443\u0435\u0432 \u042E\u0440\u0438\u0439",
+      "screen_name" : "bendog24",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2416072248",
+      "id" : 2416072248
+    }, {
       "name" : "Andrew Chalkley",
       "screen_name" : "chalkers",
       "indices" : [ 10, 19 ],
@@ -890,8 +902,8 @@ Grailbird.data.tweets_2012_11 =
       "name" : "Steven Haddox",
       "screen_name" : "stevenhaddox",
       "indices" : [ 0, 13 ],
-      "id_str" : "2563828880",
-      "id" : 2563828880
+      "id_str" : "702127434913751040",
+      "id" : 702127434913751040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1034,7 +1046,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "can",
       "protected" : false,
       "id_str" : "14911337",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/444744074134695937\/aQeaLHcf_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727375285289517060\/-ogTDOt5_normal.jpg",
       "id" : 14911337,
       "verified" : false
     }
@@ -1054,7 +1066,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sergi H.",
+      "name" : "Sergi Hernando",
       "screen_name" : "ajoman",
       "indices" : [ 3, 10 ],
       "id_str" : "8901032",
@@ -1102,11 +1114,11 @@ Grailbird.data.tweets_2012_11 =
     "in_reply_to_screen_name" : "nezumiapp",
     "in_reply_to_user_id_str" : "96004571",
     "user" : {
-      "name" : "Sergi H.",
+      "name" : "Sergi Hernando",
       "screen_name" : "ajoman",
       "protected" : false,
       "id_str" : "8901032",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/548561535564783617\/DaViN2Kz_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/715427614438137856\/nBq9gw21_normal.jpg",
       "id" : 8901032,
       "verified" : false
     }
@@ -1210,7 +1222,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "aral",
       "protected" : false,
       "id_str" : "48903",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3368588846\/256379c601670ec2a0adf2d6a678a46d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553550557588119552\/4use7Xtp_normal.jpeg",
       "id" : 48903,
       "verified" : false
     }
@@ -1236,7 +1248,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "11645552",
       "id" : 11645552
     }, {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 7, 18 ],
       "id_str" : "791632",
@@ -1308,7 +1320,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "11645552",
       "id" : 11645552
     }, {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 7, 18 ],
       "id_str" : "791632",
@@ -1422,14 +1434,6 @@ Grailbird.data.tweets_2012_11 =
       "id" : 274010595987185664,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A817L26CYAA980J.jpg",
       "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 479,
-        "resize" : "fit",
-        "w" : 720
-      }, {
         "h" : 399,
         "resize" : "fit",
         "w" : 600
@@ -1441,6 +1445,14 @@ Grailbird.data.tweets_2012_11 =
         "h" : 226,
         "resize" : "fit",
         "w" : 340
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 479,
+        "resize" : "fit",
+        "w" : 720
       } ],
       "display_url" : "pic.twitter.com\/WF8VbZoN"
     } ],
@@ -1463,14 +1475,6 @@ Grailbird.data.tweets_2012_11 =
         "id" : 274010595987185664,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A817L26CYAA980J.jpg",
         "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 479,
-          "resize" : "fit",
-          "w" : 720
-        }, {
           "h" : 399,
           "resize" : "fit",
           "w" : 600
@@ -1482,6 +1486,14 @@ Grailbird.data.tweets_2012_11 =
           "h" : 226,
           "resize" : "fit",
           "w" : 340
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 479,
+          "resize" : "fit",
+          "w" : 720
         } ],
         "display_url" : "pic.twitter.com\/WF8VbZoN"
       } ],
@@ -1498,7 +1510,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "shervin",
       "protected" : false,
       "id_str" : "1159251",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000610425121\/0aec0635211e2d5a72b33f36dd5a55c9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/697193441889923072\/1Y6-JmOt_normal.jpg",
       "id" : 1159251,
       "verified" : false
     }
@@ -1792,7 +1804,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "teapot.",
+      "name" : "ellen teapot",
       "screen_name" : "asmallteapot",
       "indices" : [ 0, 13 ],
       "id_str" : "14202167",
@@ -1891,7 +1903,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "teapot.",
+      "name" : "ellen teapot",
       "screen_name" : "asmallteapot",
       "indices" : [ 0, 13 ],
       "id_str" : "14202167",
@@ -2360,9 +2372,9 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "heroku",
       "protected" : false,
       "id_str" : "10257182",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/464169564171821056\/43sHKeth_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689189555765784576\/3wgIDj3j_normal.png",
       "id" : 10257182,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 273149615656816640,
@@ -2428,13 +2440,7 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jonathan Palmer",
-      "screen_name" : "cyberjonah",
-      "indices" : [ 0, 11 ],
-      "id_str" : "102764216",
-      "id" : 102764216
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2447,7 +2453,7 @@ Grailbird.data.tweets_2012_11 =
   "id" : 273130867185033216,
   "in_reply_to_status_id" : 273130738822553600,
   "created_at" : "2012-11-26 18:27:27 +0000",
-  "in_reply_to_screen_name" : "cyberjonah",
+  "in_reply_to_screen_name" : "rogouehobo",
   "in_reply_to_user_id_str" : "102764216",
   "user" : {
     "name" : "Marshall Huss",
@@ -2630,7 +2636,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "2015 CATS",
+      "name" : "\u00AF\\_(\u30C4)_\/\u00AF MOON",
       "screen_name" : "coreyhaines",
       "indices" : [ 3, 15 ],
       "id_str" : "11458102",
@@ -2667,11 +2673,11 @@ Grailbird.data.tweets_2012_11 =
     "id" : 273099735181697024,
     "created_at" : "2012-11-26 16:23:45 +0000",
     "user" : {
-      "name" : "2015 CATS",
+      "name" : "\u00AF\\_(\u30C4)_\/\u00AF MOON",
       "screen_name" : "coreyhaines",
       "protected" : false,
       "id_str" : "11458102",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/536990492026626048\/5bZhPQjP_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/629858692012191745\/L8jx6eD3_normal.jpg",
       "id" : 11458102,
       "verified" : false
     }
@@ -2869,7 +2875,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bookshish",
+      "name" : "modalshish",
       "screen_name" : "tundal45",
       "indices" : [ 0, 9 ],
       "id_str" : "5573992",
@@ -3058,17 +3064,17 @@ Grailbird.data.tweets_2012_11 =
         "resize" : "fit",
         "w" : 340
       }, {
-        "h" : 768,
+        "h" : 450,
         "resize" : "fit",
-        "w" : 1024
+        "w" : 600
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 450,
+        "h" : 768,
         "resize" : "fit",
-        "w" : 600
+        "w" : 1024
       }, {
         "h" : 852,
         "resize" : "fit",
@@ -3474,7 +3480,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "ryancarson",
       "protected" : false,
       "id_str" : "14763",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3477512155\/c74d7b4bcca2724ccee2adab554c5d8f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/696015680253009921\/UjQfVKds_normal.jpg",
       "id" : 14763,
       "verified" : false
     }
@@ -3547,74 +3553,13 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "ryancarson",
       "protected" : false,
       "id_str" : "14763",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3477512155\/c74d7b4bcca2724ccee2adab554c5d8f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/696015680253009921\/UjQfVKds_normal.jpg",
       "id" : 14763,
       "verified" : false
     }
   },
   "id" : 270944715749335040,
   "created_at" : "2012-11-20 17:40:28 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Brian Burridge",
-      "screen_name" : "brianburridge",
-      "indices" : [ 3, 17 ],
-      "id_str" : "14403474",
-      "id" : 14403474
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 80, 100 ],
-      "url" : "http:\/\/t.co\/etbVnUXw",
-      "expanded_url" : "http:\/\/bit.ly\/UR0pz7",
-      "display_url" : "bit.ly\/UR0pz7"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "270944490255183873",
-  "text" : "RT @brianburridge: Oprah tweets her love for the Microsoft Surface from an iPad http:\/\/t.co\/etbVnUXw",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 61, 81 ],
-        "url" : "http:\/\/t.co\/etbVnUXw",
-        "expanded_url" : "http:\/\/bit.ly\/UR0pz7",
-        "display_url" : "bit.ly\/UR0pz7"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "270935534640189440",
-    "text" : "Oprah tweets her love for the Microsoft Surface from an iPad http:\/\/t.co\/etbVnUXw",
-    "id" : 270935534640189440,
-    "created_at" : "2012-11-20 17:03:59 +0000",
-    "user" : {
-      "name" : "Brian Burridge",
-      "screen_name" : "brianburridge",
-      "protected" : false,
-      "id_str" : "14403474",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/444485681520197632\/o6Ae3lIZ_normal.jpeg",
-      "id" : 14403474,
-      "verified" : false
-    }
-  },
-  "id" : 270944490255183873,
-  "created_at" : "2012-11-20 17:39:35 +0000",
   "user" : {
     "name" : "Marshall Huss",
     "screen_name" : "mwhuss",
@@ -4082,12 +4027,6 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Elizabeth Fawkes",
-      "screen_name" : "theshoutingfox",
-      "indices" : [ 0, 15 ],
-      "id_str" : "250955932",
-      "id" : 250955932
-    }, {
       "name" : "jeniferhuss",
       "screen_name" : "jeniferhuss",
       "indices" : [ 46, 58 ],
@@ -4098,16 +4037,11 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "269787134506979328",
   "geo" : { },
   "id_str" : "269799512523022336",
-  "in_reply_to_user_id" : 250955932,
   "text" : "@theshoutingfox we sure are! Heading to watch @jeniferhuss test for her orange belt in tae kwon do.",
   "id" : 269799512523022336,
-  "in_reply_to_status_id" : 269787134506979328,
   "created_at" : "2012-11-17 13:49:51 +0000",
-  "in_reply_to_screen_name" : "theshoutingfox",
-  "in_reply_to_user_id_str" : "250955932",
   "user" : {
     "name" : "Marshall Huss",
     "screen_name" : "mwhuss",
@@ -4277,7 +4211,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "cocoahero",
       "protected" : false,
       "id_str" : "131631666",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1433950975\/cocoahero-mangatar-2_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/619490393374236672\/I9dNqWYV_normal.jpg",
       "id" : 131631666,
       "verified" : false
     }
@@ -4507,7 +4441,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "ryancarson",
       "protected" : false,
       "id_str" : "14763",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3477512155\/c74d7b4bcca2724ccee2adab554c5d8f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/696015680253009921\/UjQfVKds_normal.jpg",
       "id" : 14763,
       "verified" : false
     }
@@ -4527,7 +4461,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "teapot.",
+      "name" : "ellen teapot",
       "screen_name" : "asmallteapot",
       "indices" : [ 0, 13 ],
       "id_str" : "14202167",
@@ -4759,13 +4693,13 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 0, 11 ],
       "id_str" : "791632",
       "id" : 791632
     }, {
-      "name" : "Jim Gay",
+      "name" : "Tweety McTweetface",
       "screen_name" : "saturnflyer",
       "indices" : [ 12, 24 ],
       "id_str" : "6173562",
@@ -4895,27 +4829,16 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Elizabeth Fawkes",
-      "screen_name" : "theshoutingfox",
-      "indices" : [ 0, 15 ],
-      "id_str" : "250955932",
-      "id" : 250955932
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "269101739846811648",
   "geo" : { },
   "id_str" : "269106701733617666",
-  "in_reply_to_user_id" : 250955932,
   "text" : "@theshoutingfox fake bills, playing a lot of Monopoly lately?",
   "id" : 269106701733617666,
-  "in_reply_to_status_id" : 269101739846811648,
   "created_at" : "2012-11-15 15:56:52 +0000",
-  "in_reply_to_screen_name" : "theshoutingfox",
-  "in_reply_to_user_id_str" : "250955932",
   "user" : {
     "name" : "Marshall Huss",
     "screen_name" : "mwhuss",
@@ -5224,6 +5147,12 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "\u0417\u0443\u0435\u0432 \u042E\u0440\u0438\u0439",
+      "screen_name" : "bendog24",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2416072248",
+      "id" : 2416072248
+    }, {
       "name" : "duwanis",
       "screen_name" : "duwanis",
       "indices" : [ 10, 18 ],
@@ -5289,6 +5218,12 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 9, 21 ],
       "id_str" : "2703041",
       "id" : 2703041
+    }, {
+      "name" : "\u0417\u0443\u0435\u0432 \u042E\u0440\u0438\u0439",
+      "screen_name" : "bendog24",
+      "indices" : [ 22, 31 ],
+      "id_str" : "2416072248",
+      "id" : 2416072248
     }, {
       "name" : "Rick Harris",
       "screen_name" : "iamrickharris",
@@ -5384,7 +5319,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "VZW Support",
+      "name" : "Verizon Wireless CS",
       "screen_name" : "VZWSupport",
       "indices" : [ 0, 11 ],
       "id_str" : "62601419",
@@ -5483,7 +5418,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "VZW Support",
+      "name" : "Verizon Wireless CS",
       "screen_name" : "VZWSupport",
       "indices" : [ 0, 11 ],
       "id_str" : "62601419",
@@ -5521,6 +5456,12 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 0, 14 ],
       "id_str" : "121142586",
       "id" : 121142586
+    }, {
+      "name" : "\u0417\u0443\u0435\u0432 \u042E\u0440\u0438\u0439",
+      "screen_name" : "bendog24",
+      "indices" : [ 15, 24 ],
+      "id_str" : "2416072248",
+      "id" : 2416072248
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5554,7 +5495,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "VZW Support",
+      "name" : "Verizon Wireless CS",
       "screen_name" : "VZWSupport",
       "indices" : [ 0, 11 ],
       "id_str" : "62601419",
@@ -5608,27 +5549,16 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Elizabeth Fawkes",
-      "screen_name" : "theshoutingfox",
-      "indices" : [ 0, 15 ],
-      "id_str" : "250955932",
-      "id" : 250955932
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "268717356212166656",
   "geo" : { },
   "id_str" : "268718384152203264",
-  "in_reply_to_user_id" : 250955932,
   "text" : "@theshoutingfox it\u2019s like finding a $5 bill in your jeans, and then realizing its just a old tissue.",
   "id" : 268718384152203264,
-  "in_reply_to_status_id" : 268717356212166656,
   "created_at" : "2012-11-14 14:13:49 +0000",
-  "in_reply_to_screen_name" : "theshoutingfox",
-  "in_reply_to_user_id_str" : "250955932",
   "user" : {
     "name" : "Marshall Huss",
     "screen_name" : "mwhuss",
@@ -5799,7 +5729,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "VZW Support",
+      "name" : "Verizon Wireless CS",
       "screen_name" : "VZWSupport",
       "indices" : [ 0, 11 ],
       "id_str" : "62601419",
@@ -5854,7 +5784,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "VZW Support",
+      "name" : "Verizon Wireless CS",
       "screen_name" : "VZWSupport",
       "indices" : [ 71, 82 ],
       "id_str" : "62601419",
@@ -6230,7 +6160,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eloy Dur\u00E1n",
+      "name" : "Eloy \u201CDur\u00C3\u00A1n\u201D Dur\u00E1n",
       "screen_name" : "alloy",
       "indices" : [ 0, 6 ],
       "id_str" : "12459132",
@@ -6593,11 +6523,11 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Prismatic",
-      "screen_name" : "Prismatic",
+      "name" : "Adelaide Craft",
+      "screen_name" : "prismatic",
       "indices" : [ 2, 12 ],
-      "id_str" : "229709694",
-      "id" : 229709694
+      "id_str" : "4845792891",
+      "id" : 4845792891
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6834,13 +6764,7 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jonathan Palmer",
-      "screen_name" : "cyberjonah",
-      "indices" : [ 0, 11 ],
-      "id_str" : "102764216",
-      "id" : 102764216
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6853,7 +6777,7 @@ Grailbird.data.tweets_2012_11 =
   "id" : 267746724213313537,
   "in_reply_to_status_id" : 267708041296764928,
   "created_at" : "2012-11-11 21:52:48 +0000",
-  "in_reply_to_screen_name" : "cyberjonah",
+  "in_reply_to_screen_name" : "rogouehobo",
   "in_reply_to_user_id_str" : "102764216",
   "user" : {
     "name" : "Marshall Huss",
@@ -6901,7 +6825,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "teapot.",
+      "name" : "ellen teapot",
       "screen_name" : "asmallteapot",
       "indices" : [ 3, 16 ],
       "id_str" : "14202167",
@@ -6938,11 +6862,11 @@ Grailbird.data.tweets_2012_11 =
     "id" : 267659095958499328,
     "created_at" : "2012-11-11 16:04:35 +0000",
     "user" : {
-      "name" : "teapot.",
+      "name" : "ellen teapot",
       "screen_name" : "asmallteapot",
       "protected" : false,
       "id_str" : "14202167",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538945862798290945\/pk_u-5yR_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/720079591205785600\/W2YHjfVl_normal.jpg",
       "id" : 14202167,
       "verified" : false
     }
@@ -6962,7 +6886,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "App Store ",
+      "name" : "App Store",
       "screen_name" : "AppStore",
       "indices" : [ 31, 40 ],
       "id_str" : "74594552",
@@ -7557,8 +7481,8 @@ Grailbird.data.tweets_2012_11 =
       "name" : "Steven Haddox",
       "screen_name" : "stevenhaddox",
       "indices" : [ 0, 13 ],
-      "id_str" : "2563828880",
-      "id" : 2563828880
+      "id_str" : "702127434913751040",
+      "id" : 702127434913751040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7715,7 +7639,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "VZW Support",
+      "name" : "Verizon Wireless CS",
       "screen_name" : "VZWSupport",
       "indices" : [ 0, 11 ],
       "id_str" : "62601419",
@@ -7832,7 +7756,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "775679",
       "id" : 775679
     }, {
-      "name" : "Zite ",
+      "name" : "Zite",
       "screen_name" : "Zite",
       "indices" : [ 13, 18 ],
       "id_str" : "110558385",
@@ -8373,7 +8297,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "fredyatesiv",
       "protected" : false,
       "id_str" : "11886642",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000601269119\/e0edad3585e85a968b3840e2ccd0ace5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/649612328237969411\/SNAzDSRH_normal.jpg",
       "id" : 11886642,
       "verified" : false
     }
@@ -8581,7 +8505,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 0, 11 ],
       "id_str" : "791632",
@@ -8740,7 +8664,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "joshsusser",
       "protected" : false,
       "id_str" : "35954885",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/502547892230316032\/njGJleCw_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614490649711087616\/gjeg_6nP_normal.jpg",
       "id" : 35954885,
       "verified" : false
     }
@@ -8833,7 +8757,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 0, 11 ],
       "id_str" : "791632",
@@ -9600,12 +9524,6 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "30537165",
       "id" : 30537165
     }, {
-      "name" : "Jonathan Palmer",
-      "screen_name" : "cyberjonah",
-      "indices" : [ 12, 23 ],
-      "id_str" : "102764216",
-      "id" : 102764216
-    }, {
       "name" : "Schreiber",
       "screen_name" : "ASchreiber",
       "indices" : [ 27, 38 ],
@@ -10248,7 +10166,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "simplebits",
       "protected" : false,
       "id_str" : "4833",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481242428846792704\/vxSRFr3j_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/719565113372463104\/vOClpfhJ_normal.jpg",
       "id" : 4833,
       "verified" : false
     }
@@ -10294,13 +10212,7 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jonathan Palmer",
-      "screen_name" : "cyberjonah",
-      "indices" : [ 0, 11 ],
-      "id_str" : "102764216",
-      "id" : 102764216
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -10313,7 +10225,7 @@ Grailbird.data.tweets_2012_11 =
   "id" : 264551062478934016,
   "in_reply_to_status_id" : 264550966962028544,
   "created_at" : "2012-11-03 02:14:23 +0000",
-  "in_reply_to_screen_name" : "cyberjonah",
+  "in_reply_to_screen_name" : "rogouehobo",
   "in_reply_to_user_id_str" : "102764216",
   "user" : {
     "name" : "Marshall Huss",
@@ -10327,13 +10239,7 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jonathan Palmer",
-      "screen_name" : "cyberjonah",
-      "indices" : [ 0, 11 ],
-      "id_str" : "102764216",
-      "id" : 102764216
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -10346,7 +10252,7 @@ Grailbird.data.tweets_2012_11 =
   "id" : 264550832522031104,
   "in_reply_to_status_id" : 264531610601410560,
   "created_at" : "2012-11-03 02:13:28 +0000",
-  "in_reply_to_screen_name" : "cyberjonah",
+  "in_reply_to_screen_name" : "rogouehobo",
   "in_reply_to_user_id_str" : "102764216",
   "user" : {
     "name" : "Marshall Huss",
@@ -10409,8 +10315,8 @@ Grailbird.data.tweets_2012_11 =
       "name" : "Steven Haddox",
       "screen_name" : "stevenhaddox",
       "indices" : [ 8, 21 ],
-      "id_str" : "2563828880",
-      "id" : 2563828880
+      "id_str" : "702127434913751040",
+      "id" : 702127434913751040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -10735,7 +10641,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "SteveStreza",
       "protected" : false,
       "id_str" : "658643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540811650727550976\/b7RvPDiF_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716509825224433664\/HZ2NtC9k_normal.jpg",
       "id" : 658643,
       "verified" : false
     }
@@ -10755,7 +10661,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 0, 11 ],
       "id_str" : "791632",
@@ -10847,7 +10753,13 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "duwanis",
+      "screen_name" : "duwanis",
+      "indices" : [ 3, 11 ],
+      "id_str" : "2500057795",
+      "id" : 2500057795
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -10873,7 +10785,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "wellbredgfruit",
       "protected" : false,
       "id_str" : "13228",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1522948980\/NewLogo_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/697083109758648321\/z1-biSih_normal.jpg",
       "id" : 13228,
       "verified" : false
     }

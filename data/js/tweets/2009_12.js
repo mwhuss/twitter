@@ -140,7 +140,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 0, 11 ],
       "id_str" : "791632",
@@ -171,7 +171,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 0, 11 ],
       "id_str" : "791632",
@@ -2047,7 +2047,7 @@ Grailbird.data.tweets_2009_12 =
       "id_str" : "9969232",
       "id" : 9969232
     }, {
-      "name" : "Lee",
+      "name" : "M",
       "screen_name" : "seachelles",
       "indices" : [ 35, 46 ],
       "id_str" : "1545486602",
@@ -2274,7 +2274,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 0, 11 ],
       "id_str" : "791632",
@@ -2357,7 +2357,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 107, 118 ],
       "id_str" : "791632",
@@ -3004,7 +3004,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 0, 11 ],
       "id_str" : "791632",
@@ -3705,7 +3705,7 @@ Grailbird.data.tweets_2009_12 =
   "id" : 6324435597,
   "in_reply_to_status_id" : 6322499610,
   "created_at" : "2009-12-04 00:00:00 +0000",
-  "in_reply_to_screen_name" : "dr3adp1rat3",
+  "in_reply_to_screen_name" : "elvientowjf",
   "in_reply_to_user_id_str" : "21726648",
   "user" : {
     "name" : "Marshall Huss",
@@ -3808,11 +3808,11 @@ Grailbird.data.tweets_2009_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam",
-      "screen_name" : "adam757",
+      "name" : "\u0417\u0430\u043B\u0438\u0431\u0435\u043A \u041C\u0430\u043C\u0435\u0434\u043E\u0432",
+      "screen_name" : "Adam757",
       "indices" : [ 55, 63 ],
-      "id_str" : "755677",
-      "id" : 755677
+      "id_str" : "3434026737",
+      "id" : 3434026737
     } ],
     "media" : [ ],
     "hashtags" : [ ],

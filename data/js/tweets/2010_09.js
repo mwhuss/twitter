@@ -21,7 +21,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 26073451271,
   "in_reply_to_status_id" : 26069381138,
   "created_at" : "2010-10-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "armstrong_sf",
+  "in_reply_to_screen_name" : "rmstrongcharles",
   "in_reply_to_user_id_str" : "22009478",
   "user" : {
     "name" : "Marshall Huss",
@@ -113,7 +113,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryce Kerley",
+      "name" : "bryce irl",
       "screen_name" : "BonzoESC",
       "indices" : [ 0, 9 ],
       "id_str" : "7865582",
@@ -464,7 +464,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Big Sea Design",
+      "name" : "Big Sea",
       "screen_name" : "bigsea",
       "indices" : [ 0, 7 ],
       "id_str" : "2200120832",
@@ -530,7 +530,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryce Kerley",
+      "name" : "bryce irl",
       "screen_name" : "BonzoESC",
       "indices" : [ 0, 9 ],
       "id_str" : "7865582",
@@ -1065,7 +1065,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 25525812077,
   "in_reply_to_status_id" : 25525497661,
   "created_at" : "2010-09-25 00:00:00 +0000",
-  "in_reply_to_screen_name" : "cyberjonah",
+  "in_reply_to_screen_name" : "rogouehobo",
   "in_reply_to_user_id_str" : "102764216",
   "user" : {
     "name" : "Marshall Huss",
@@ -2058,7 +2058,7 @@ Grailbird.data.tweets_2010_09 =
       "id_str" : "16304010",
       "id" : 16304010
     }, {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 123, 134 ],
       "id_str" : "791632",
@@ -4130,7 +4130,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 5, 16 ],
       "id_str" : "791632",
@@ -4186,7 +4186,7 @@ Grailbird.data.tweets_2010_09 =
       "id_str" : "14844805",
       "id" : 14844805
     }, {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 8, 19 ],
       "id_str" : "791632",

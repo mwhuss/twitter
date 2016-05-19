@@ -156,7 +156,13 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Shaw Mohammad",
+      "screen_name" : "ShawSays",
+      "indices" : [ 0, 9 ],
+      "id_str" : "4642451292",
+      "id" : 4642451292
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -746,6 +752,12 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Caleb Davenport",
+      "screen_name" : "iMacthere4iAm",
+      "indices" : [ 3, 17 ],
+      "id_str" : "1020515750",
+      "id" : 1020515750
+    }, {
       "name" : "Marshall Huss",
       "screen_name" : "mwhuss",
       "indices" : [ 22, 29 ],
@@ -793,7 +805,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "calebd",
       "protected" : false,
       "id_str" : "17641648",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/502006691693473792\/v2JMRQqg_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/652926303142719488\/HB9-TwC1_normal.jpg",
       "id" : 17641648,
       "verified" : false
     }
@@ -1128,7 +1140,13 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Shaw Mohammad",
+      "screen_name" : "ShawSays",
+      "indices" : [ 0, 9 ],
+      "id_str" : "4642451292",
+      "id" : 4642451292
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1289,7 +1307,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 84233454081949696,
   "in_reply_to_status_id" : 84230610566131713,
   "created_at" : "2011-06-24 12:16:35 +0000",
-  "in_reply_to_screen_name" : "cyberjonah",
+  "in_reply_to_screen_name" : "rogouehobo",
   "in_reply_to_user_id_str" : "102764216",
   "user" : {
     "name" : "Marshall Huss",
@@ -1380,7 +1398,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 84109163571064833,
   "in_reply_to_status_id" : 83905444871012352,
   "created_at" : "2011-06-24 04:02:41 +0000",
-  "in_reply_to_screen_name" : "cyberjonah",
+  "in_reply_to_screen_name" : "rogouehobo",
   "in_reply_to_user_id_str" : "102764216",
   "user" : {
     "name" : "Marshall Huss",
@@ -1539,6 +1557,12 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 0, 14 ],
       "id_str" : "1020515750",
       "id" : 1020515750
+    }, {
+      "name" : "Shaw Mohammad",
+      "screen_name" : "ShawSays",
+      "indices" : [ 15, 24 ],
+      "id_str" : "4642451292",
+      "id" : 4642451292
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1682,7 +1706,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 83643176728006656,
   "in_reply_to_status_id" : 83640998198128641,
   "created_at" : "2011-06-22 21:11:02 +0000",
-  "in_reply_to_screen_name" : "cyberjonah",
+  "in_reply_to_screen_name" : "rogouehobo",
   "in_reply_to_user_id_str" : "102764216",
   "user" : {
     "name" : "Marshall Huss",
@@ -1697,7 +1721,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 4, 15 ],
       "id_str" : "791632",
@@ -1725,7 +1749,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryce Kerley",
+      "name" : "bryce irl",
       "screen_name" : "BonzoESC",
       "indices" : [ 0, 9 ],
       "id_str" : "7865582",
@@ -2045,7 +2069,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Big Sea Design",
+      "name" : "Big Sea",
       "screen_name" : "bigsea",
       "indices" : [ 0, 7 ],
       "id_str" : "2200120832",
@@ -2137,7 +2161,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "tapbot_paul",
       "protected" : false,
       "id_str" : "18247541",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/512067413727526913\/2GvbJeQI_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/609215086188560384\/Qvg0YlB0_normal.png",
       "id" : 18247541,
       "verified" : false
     }
@@ -2798,7 +2822,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 43, 54 ],
       "id_str" : "791632",
@@ -2936,7 +2960,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 58, 69 ],
       "id_str" : "791632",
@@ -3027,8 +3051,8 @@ Grailbird.data.tweets_2011_06 =
       "name" : "Greg Hemphill",
       "screen_name" : "Agent_G",
       "indices" : [ 0, 8 ],
-      "id_str" : "14443264",
-      "id" : 14443264
+      "id_str" : "19382418",
+      "id" : 19382418
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3040,7 +3064,7 @@ Grailbird.data.tweets_2011_06 =
   "text" : "@Agent_G hire or freelance?",
   "id" : 81450424099553280,
   "created_at" : "2011-06-16 19:57:49 +0000",
-  "in_reply_to_screen_name" : "Agent_G",
+  "in_reply_to_screen_name" : "hemphill",
   "in_reply_to_user_id_str" : "14443264",
   "user" : {
     "name" : "Marshall Huss",
@@ -3535,9 +3559,9 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "dogfishbeer",
       "protected" : false,
       "id_str" : "16721886",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2463674539\/p0dasa7w1vr35c6aqsuv_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618045650119335936\/S0CaWOpQ_normal.jpg",
       "id" : 16721886,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 81037720457191424,
@@ -3555,7 +3579,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 3, 14 ],
       "id_str" : "791632",
@@ -3604,7 +3628,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 80994768200540160,
     "created_at" : "2011-06-15 13:47:12 +0000",
     "user" : {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "protected" : false,
       "id_str" : "791632",
@@ -3774,7 +3798,7 @@ Grailbird.data.tweets_2011_06 =
     "media" : [ ],
     "hashtags" : [ {
       "text" : "NASATweetup",
-      "indices" : [ 130, 140 ]
+      "indices" : [ 139, 140 ]
     } ],
     "urls" : [ ]
   },
@@ -4334,79 +4358,6 @@ Grailbird.data.tweets_2011_06 =
   "text" : "1 week until my Intro to iOS class at @thoughtbot, Save $300 with coupon code JUNEIOS http:\/\/t.co\/N4IIbbI",
   "id" : 80298826950377473,
   "created_at" : "2011-06-13 15:41:46 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Brian Burridge",
-      "screen_name" : "brianburridge",
-      "indices" : [ 3, 17 ],
-      "id_str" : "14403474",
-      "id" : 14403474
-    }, {
-      "name" : "allan branch",
-      "screen_name" : "allanbranch",
-      "indices" : [ 22, 34 ],
-      "id_str" : "6183972",
-      "id" : 6183972
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 69, 88 ],
-      "url" : "http:\/\/t.co\/5LVOSqo",
-      "expanded_url" : "http:\/\/twitpic.com\/5azojc",
-      "display_url" : "twitpic.com\/5azojc"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "80283707365261312",
-  "text" : "RT @brianburridge: RT @allanbranch: This is how you qualify a lead.  http:\/\/t.co\/5LVOSqo",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "allan branch",
-        "screen_name" : "allanbranch",
-        "indices" : [ 3, 15 ],
-        "id_str" : "6183972",
-        "id" : 6183972
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 50, 69 ],
-        "url" : "http:\/\/t.co\/5LVOSqo",
-        "expanded_url" : "http:\/\/twitpic.com\/5azojc",
-        "display_url" : "twitpic.com\/5azojc"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "80270010043469824",
-    "text" : "RT @allanbranch: This is how you qualify a lead.  http:\/\/t.co\/5LVOSqo",
-    "id" : 80270010043469824,
-    "created_at" : "2011-06-13 13:47:16 +0000",
-    "user" : {
-      "name" : "Brian Burridge",
-      "screen_name" : "brianburridge",
-      "protected" : false,
-      "id_str" : "14403474",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/444485681520197632\/o6Ae3lIZ_normal.jpeg",
-      "id" : 14403474,
-      "verified" : false
-    }
-  },
-  "id" : 80283707365261312,
-  "created_at" : "2011-06-13 14:41:42 +0000",
   "user" : {
     "name" : "Marshall Huss",
     "screen_name" : "mwhuss",
@@ -6274,39 +6225,6 @@ Grailbird.data.tweets_2011_06 =
   "text" : "Redoing my entire iOS workshop slides and projects, so far my favorite slide http:\/\/t.co\/5yfJlyU",
   "id" : 76127805582229504,
   "created_at" : "2011-06-02 03:27:37 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "2015 CATS",
-      "screen_name" : "coreyhaines",
-      "indices" : [ 0, 12 ],
-      "id_str" : "11458102",
-      "id" : 11458102
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "75778455928709121",
-  "geo" : { },
-  "id_str" : "75789429217832961",
-  "in_reply_to_user_id" : 11458102,
-  "text" : "@coreyhaines I've been using esign.adobe.com and it's been working well",
-  "id" : 75789429217832961,
-  "in_reply_to_status_id" : 75778455928709121,
-  "created_at" : "2011-06-01 05:03:02 +0000",
-  "in_reply_to_screen_name" : "coreyhaines",
-  "in_reply_to_user_id_str" : "11458102",
   "user" : {
     "name" : "Marshall Huss",
     "screen_name" : "mwhuss",

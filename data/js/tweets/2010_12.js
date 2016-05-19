@@ -377,69 +377,6 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brian Burridge",
-      "screen_name" : "brianburridge",
-      "indices" : [ 3, 17 ],
-      "id_str" : "14403474",
-      "id" : 14403474
-    }, {
-      "name" : "Robert Scoble",
-      "screen_name" : "Scobleizer",
-      "indices" : [ 22, 33 ],
-      "id_str" : "13348",
-      "id" : 13348
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "20173209835933697",
-  "text" : "RT @brianburridge: RT @Scobleizer: Anti iPhone folks should read what Angry Birds' creator says about the various mobile platforms: http ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Robert Scoble",
-        "screen_name" : "Scobleizer",
-        "indices" : [ 3, 14 ],
-        "id_str" : "13348",
-        "id" : 13348
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "20162117172727808",
-    "text" : "RT @Scobleizer: Anti iPhone folks should read what Angry Birds' creator says about the various mobile platforms: http:\/\/scoble.it\/i4RFpU",
-    "id" : 20162117172727808,
-    "created_at" : "2010-12-29 16:59:57 +0000",
-    "user" : {
-      "name" : "Brian Burridge",
-      "screen_name" : "brianburridge",
-      "protected" : false,
-      "id_str" : "14403474",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/444485681520197632\/o6Ae3lIZ_normal.jpeg",
-      "id" : 14403474,
-      "verified" : false
-    }
-  },
-  "id" : 20173209835933697,
-  "created_at" : "2010-12-29 17:44:02 +0000",
-  "user" : {
-    "name" : "Marshall Huss",
-    "screen_name" : "mwhuss",
-    "protected" : false,
-    "id_str" : "4235881",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489787952923295744\/8OxRFdPI_normal.jpeg",
-    "id" : 4235881,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Sam Odio",
       "screen_name" : "sodio",
       "indices" : [ 0, 6 ],
@@ -1240,7 +1177,7 @@ Grailbird.data.tweets_2010_12 =
       "id_str" : "1465521",
       "id" : 1465521
     }, {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 14, 25 ],
       "id_str" : "791632",
@@ -2812,7 +2749,7 @@ Grailbird.data.tweets_2010_12 =
       "id_str" : "7114202",
       "id" : 7114202
     }, {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 13, 24 ],
       "id_str" : "791632",
@@ -2845,7 +2782,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 76, 87 ],
       "id_str" : "791632",
@@ -3186,7 +3123,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "elight",
       "protected" : false,
       "id_str" : "3948061",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/513049930211270656\/jl4TEokv_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/579120532622209024\/w85AqSUH_normal.jpg",
       "id" : 3948061,
       "verified" : false
     }
@@ -3509,7 +3446,7 @@ Grailbird.data.tweets_2010_12 =
       "id_str" : "3948061",
       "id" : 3948061
     }, {
-      "name" : "David Browning",
+      "name" : "Dave Browning",
       "screen_name" : "djbrowning",
       "indices" : [ 8, 19 ],
       "id_str" : "791632",
